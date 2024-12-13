@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a passionate and highly motivated mobile application developer with a bachelor's degree in Software Engineering from Al-Hussein Bin Talal University, where I received recognition for my outstanding graduation project. My expertise spans across Android development using Kotlin and Java, as well as cross-platform development with Flutter. I have hands-on experience with backend integration and real-time communication with Socket.IO.<br><br>I thrive in challenging environments where I can continuously learn and grow, and I am always looking to work on innovative projects that leverage my skills in mobile app development, machine learning integration, and clean architecture. With a strong foundation in problem-solving, teamwork, and rapid learning, I aim to contribute to impactful solutions that make a difference.
+Mobile App Developer specializing in Flutter, with experience in building and developing innovative Android applications using Kotlin
+and Java. I am skilled in designing applications with a strong focus on user experience, characterized by modern interfaces and
+smooth performance. My experience includes integrating APIs and developing advanced functionalities such as real-time instant
+chat and efficient data management across databases. I strive to provide creative technical solutions that enhance application
+efficiency and meet user requirements effectively.
 
 
 ## 🌐 Socials:
