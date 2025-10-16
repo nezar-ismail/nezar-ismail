@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-end Developer specializing in Flutter && Angular, with experience in building and developing innovative Android applications using Kotlin
+Full-stack Developer specializing in Flutter && Angular and FastApi, with experience in building and developing innovative Android applications using Kotlin
 and Java. I am skilled in designing applications with a strong focus on user experience, characterized by modern interfaces and
 smooth performance. My experience includes integrating APIs and developing advanced functionalities such as real-time instant
 chat and efficient data management across databases. I strive to provide creative technical solutions that enhance application
